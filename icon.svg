@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <!-- Background circle -->
+  <circle cx="54" cy="54" r="54" fill="#1565C0"/>
+  <!-- Signal tower / network icon -->
+  <rect x="50" y="30" width="8" height="48" rx="4" fill="white"/>
+  <!-- Signal arcs -->
+  <path d="M54 54 m-22 0 a22 22 0 0 1 44 0" fill="none" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  <path d="M54 54 m-34 0 a34 34 0 0 1 68 0" fill="none" stroke="white" stroke-width="6" stroke-linecap="round" opacity="0.6"/>
+  <!-- Switch arrows -->
+  <text x="54" y="90" text-anchor="middle" font-size="18" fill="white" font-family="sans-serif" font-weight="bold">5G↔LTE</text>
+</svg>
